@@ -1,0 +1,41 @@
+
+Files and Indexing
+
+
+STEPS:
+
+1)Import the Project to the Eclipse Worspace
+
+2)To run from the command prompt do follow the steps below
+
+3)click cmd and go to ant path and then type the following command-> java -cp ./bin/ main.Console
+Here main is the Package Name and Console is the Main Driver Class that will Drive this Project so do type the following command in the command line prompt.
+
+4)After that No users/No data will be existing in the Database
+so type admin to go into next steps.
+
+5)Here admin is case-sensitive.
+
+6)After that SUPREETHSQL-> Mysql promopt will come up where you can perform the following opeations and you can check by typing HELP in the prompt.The following operations can be done.
+ 1)CREATE
+ 2)DROP
+ 3)SELECT
+ 4)INSERT
+ 5)DELETE
+ 6)UPDATE
+ 7)TABLES
+ 8)DESCRIBE
+
+7)I have also attached some admin1.sql,admin2.sql file where you can check all the operations that i specified above is working properly.
+
+8) I have also attached the output1,output2,output3,output4,output5 txt files
+where i have generated the output for all the above commands.
+
+9)Finally type the command DESCRIBE that will Tell you how to save the contents to the hardisk->so type "QUIT" as this will save all the schemas,Tables,Records in the database Hardisk files.
+
+10) Done the Mysql Engine is operating Properly.
+
+
+
+
+
